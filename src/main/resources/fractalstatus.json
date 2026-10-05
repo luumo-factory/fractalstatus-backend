@@ -1,0 +1,15 @@
+{
+  "server": {
+    "port": 8080
+  },
+  "fractalstatus": {
+    "config-path": "classpath:demo-config.json",
+    "auto-start": true,
+    "log": {
+      "capacity": 5000
+    },
+    "cors": {
+      "allowed-origins": ["*"]
+    }
+  }
+}

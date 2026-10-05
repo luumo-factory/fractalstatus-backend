@@ -1,0 +1,2 @@
+org.springframework.boot.env.EnvironmentPostProcessor=\
+ai.luumo.fractalstatus.JsonConfigEnvironmentPostProcessor
